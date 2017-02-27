@@ -1,6 +1,6 @@
 def my_square(x):
 	""" takes a valut and returns a squared value. Adding a bit more documentation
 	"""
-	return(x ** 2)
+	return(z * z)
 
-print(my_square(4))
+print(my_square(24))
